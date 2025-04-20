@@ -96,6 +96,7 @@
           <td>Database</td>
             <td>
               <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+              <img src="https://img.shields.io/badge/SQLite-87CEEB?style=for-the-badge&logo=SQLite&logoColor=white">
             </td>
         </tr>
         <tr>
