@@ -101,7 +101,7 @@
         <tr>
           <td>ORM Library</td>
             <td>
-              <img src="https://img.shields.io/badge/SQLAlchemy-E34F26?style=for-the-badge&logo=SQLAlchemy&logoColor=white">
+              <img src="https://img.shields.io/badge/SQLAlchemy-8B0000?style=for-the-badge&logo=SQLAlchemy&logoColor=white">
             </td>
         </tr>
         <tr>
