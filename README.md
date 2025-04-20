@@ -146,6 +146,12 @@
             <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
           </td>
         </tr>
+        <tr>
+          <td>ORM Library</td>
+            <td>
+              <img src="https://img.shields.io/badge/SQLAlchemy-8B0000?style=for-the-badge&logo=SQLAlchemy&logoColor=white">
+            </td>
+        </tr>
       </tbody>
     </table>    
   </div>
