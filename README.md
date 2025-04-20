@@ -99,6 +99,12 @@
             </td>
         </tr>
         <tr>
+          <td>ORM Library</td>
+            <td>
+              <img src="https://img.shields.io/badge/SQLAlchemy-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+            </td>
+        </tr>
+        <tr>
           <td>Framwork</td>
           <td>
             <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
