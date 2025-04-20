@@ -13,6 +13,36 @@
 - 영양소 시각화 및 총 칼로리, 예산 비교 요약 제공
 - 예외 상황(fallback) 시에도 기본 추천 데이터를 기반으로 서비스 가능
 <br>
+<h2>👥 팀원 역할 분담</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>이름</th>
+      <th>역할</th>
+      <th>세부 담당 업무</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>김세일</strong></td>
+      <td>팀장 / 총괄 기획·백엔드</td>
+      <td>일정·문서 기획<br>API 설계<br>서버 운영</td>
+    </tr>
+    <tr>
+      <td><strong>이동환</strong></td>
+      <td>프론트엔드 개발자</td>
+      <td>컴포넌트 개발<br>추천 결과 렌더링<br>차트 구현<br>React<br>상태관리<br>바인딩 처리</td>
+    </tr>
+    <tr>
+      <td><strong>박상헌</strong></td>
+      <td>테스트 / 품질·UX 개선</td>
+      <td>QA 시나리오 작성<br>Postman 테스트<br>발표용 UI 개선</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
 <div style="margin: 20px 0;">
   <h1>기술스택</h1>
   <div style="margin-bottom: 0;">
