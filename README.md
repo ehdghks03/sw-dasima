@@ -109,6 +109,7 @@
           <td>Programming Language</td>
           <td>
             <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+            <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
           </td>
         </tr>
         <tr>
