@@ -66,7 +66,7 @@
           <td>
             <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
             <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white">
-            <img src="https://img.shields.io/badge/Recoil-0088CC?style=for-the-badge&logo=recoil&logoColor=white">
+            <img src="https://img.shields.io/badge/Zustand-FFBB00?style=for-the-badge&logo=zapier&logoColor=black">
           </td>
         </tr>
         <tr>
