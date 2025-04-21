@@ -62,11 +62,11 @@
       </thead>
       <tbody>
         <tr>
-          <td>library</td>
+          <td>Library</td>
           <td>
             <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
             <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white">
-            <img src="https://img.shields.io/badge/Zustand-FFBB00?style=for-the-badge&logo=zapier&logoColor=black">
+            <img src="https://img.shields.io/badge/Zustand-FFBB00?style=for-the-badge&logo=zustand&logoColor=black">
           </td>
         </tr>
         <tr>
@@ -101,19 +101,19 @@
       <tbody>
         <tr>
           <td>Database</td>
-            <td>
-              <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white">
-              <img src="https://img.shields.io/badge/SQLite-87CEEB?style=for-the-badge&logo=SQLite&logoColor=white">
-            </td>
+          <td>
+            <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+            <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
+          </td>
         </tr>
         <tr>
           <td>ORM Library</td>
-            <td>
-              <img src="https://img.shields.io/badge/SQLAlchemy-8B0000?style=for-the-badge&logo=SQLAlchemy&logoColor=white">
-            </td>
+          <td>
+            <img src="https://img.shields.io/badge/SQLAlchemy-8B0000?style=for-the-badge&logo=SQLAlchemy&logoColor=white">
+          </td>
         </tr>
         <tr>
-          <td>Framwork</td>
+          <td>Framework</td>
           <td>
             <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
             <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
@@ -122,14 +122,14 @@
         <tr>
           <td>Programming Language</td>
           <td>
-            <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-            <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
           </td>
         </tr>
         <tr>
-          <td>Runtime Language</td>
+          <td>Runtime Environment</td>
           <td>
-            <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+            <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
           </td>
         </tr>
       </tbody>
@@ -151,14 +151,14 @@
         <tr>
           <td>Programming Language</td>
           <td>
-            <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
           </td>
         </tr>
         <tr>
           <td>ORM Library</td>
-            <td>
-              <img src="https://img.shields.io/badge/SQLAlchemy-8B0000?style=for-the-badge&logo=SQLAlchemy&logoColor=white">
-            </td>
+          <td>
+            <img src="https://img.shields.io/badge/SQLAlchemy-8B0000?style=for-the-badge&logo=SQLAlchemy&logoColor=white">
+          </td>
         </tr>
       </tbody>
     </table>    
@@ -213,3 +213,5 @@
       </tbody>
     </table>    
   </div>
+</div>
+
