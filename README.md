@@ -84,6 +84,20 @@
           <td>경량화된 상태 관리 라이브러리, React와 함께 사용</td>
         </tr>
         <tr>
+          <td>HTTP Client</td>
+          <td>
+            <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
+          </td>
+          <td>HTTP 요청을 보내는 클라이언트 라이브러리, API 호출에 사용</td>
+        </tr>
+        <tr>
+          <td>UI Notification</td>
+          <td>
+            <img src="https://img.shields.io/badge/Sonner-00B9F1?style=for-the-badge&logo=sonner&logoColor=white">
+          </td>
+          <td>알림 UI 라이브러리, 사용자가 상호작용할 때 알림을 표시</td>
+        </tr>
+        <tr>
           <td>Markup Language</td>
           <td>
             <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -98,6 +112,13 @@
             <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
           </td>
           <td>웹 애플리케이션의 기능 구현 및 데이터 흐름 처리</td>
+        </tr>
+        <tr>
+          <td>Build Tool</td>
+          <td>
+            <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+          </td>
+          <td>빠른 빌드 및 개발 서버, ES 모듈 지원, React 개발에 최적화된 빌드 도구</td>
         </tr>
       </tbody>
     </table>    
