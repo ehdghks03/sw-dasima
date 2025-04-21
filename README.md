@@ -50,8 +50,51 @@
 
 
 ## 기술 스택
+
 <div style="margin: 20px 0;">
-  <div style="margin-bottom: 0;">
+  
+  <!-- 공통 기술 스택 -->
+  <div style="margin-bottom: 20px;">
+    <h3>🛠 공통 기술 스택</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>역할</th>
+          <th>기술 스택</th>
+          <th>세부 설명</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Version Control</td>
+          <td>
+            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+          </td>
+          <td>버전 관리 시스템, 소스 코드 변경 사항 추적 및 팀 협업을 위한 도구</td>
+        </tr>
+        <tr>
+          <td>CI/CD</td>
+          <td>
+            <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+          </td>
+          <td>소프트웨어의 지속적 통합 및 배포를 위한 자동화 도구, GitHub Actions로 빌드, 테스트, 배포</td>
+        </tr>
+        <tr>
+          <td>Deployment</td>
+          <td>
+            <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+            <img src="https://img.shields.io/badge/Fly.io-00B4D8?style=for-the-badge&logo=fly&logoColor=white">
+          </td>
+          <td>서버리스 애플리케이션 배포 및 호스팅 플랫폼, Vercel과 Fly.io로 배포 및 관리</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <br />
+
+  <!-- 프론트엔드 기술 스택 -->
+  <div style="margin-bottom: 20px;">
     <h3>🛠 Frontend</h3>
     <table>
       <thead>
@@ -121,11 +164,12 @@
           <td>빠른 빌드 및 개발 서버, ES 모듈 지원, React 개발에 최적화된 빌드 도구</td>
         </tr>
       </tbody>
-    </table>    
+    </table>
   </div>
 
-  <br/>
+  <br />
 
+  <!-- 백엔드 기술 스택 -->
   <div style="margin-bottom: 0;">
     <h3>🛠 Backend</h3>
     <table>
@@ -195,24 +239,10 @@
           </td>
           <td>Postman에서 작성한 API 테스트 스크립트를 CLI에서 실행하는 도구</td>
         </tr>
-        <tr>
-          <td>CI/CD</td>
-          <td>
-            <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
-          </td>
-          <td>소프트웨어의 지속적 통합 및 배포를 위한 자동화 도구, GitHub Actions로 빌드, 테스트, 배포</td>
-        </tr>
-        <tr>
-          <td>Deployment</td>
-          <td>
-            <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-            <img src="https://img.shields.io/badge/Fly.io-00B4D8?style=for-the-badge&logo=fly&logoColor=white">
-          </td>
-          <td>서버리스 애플리케이션 배포 및 호스팅 플랫폼, Vercel과 Fly.io로 배포 및 관리</td>
-        </tr>
       </tbody>
-    </table>    
+    </table>
   </div>
 </div>
+
 
 
