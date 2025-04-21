@@ -191,9 +191,20 @@ AI가 사용자의 건강 목표, 알레르기, 예산 등을 기반으로 맞�
     </tr>
     <tr>
       <td>Deployment</td>
-      <td><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-          <img src="https://img.shields.io/badge/Fly.io-00B4D8?style=for-the-badge&logo=fly&logoColor=white" alt="Fly.io"></td>
+      <td>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+        <img src="https://img.shields.io/badge/Fly.io-00B4D8?style=for-the-badge&logo=fly&logoColor=white" alt="Fly.io">
+      </td>
       <td>서버리스 애플리케이션 배포 및 호스팅 플랫폼, Vercel과 Fly.io로 배포 및 관리</td>
+    </tr>
+    <tr>
+      <td>Code Editor</td>
+      <td>
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+        <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
+      </td>
+      <td>코드 편집기 및 IDE, VS Code는 범용 편집기로, PyCharm은 Python 개발에 특화된 IDE</td>
     </tr>
   </tbody>
 </table>
+
