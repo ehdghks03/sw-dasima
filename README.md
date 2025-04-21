@@ -55,37 +55,6 @@ AI가 사용자의 건강 목표, 알레르기, 예산 등을 기반으로 맞�
 
 ## 🛠 기술 스택
 
-### 공통 기술 스택
-<table>
-  <thead>
-    <tr>
-      <th>역할</th>
-      <th>기술 스택</th>
-      <th>세부 설명</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Version Control</td>
-      <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></td>
-      <td>버전 관리 시스템, 소스 코드 변경 사항 추적 및 팀 협업을 위한 도구</td>
-    </tr>
-    <tr>
-      <td>CI/CD</td>
-      <td><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"></td>
-      <td>소프트웨어의 지속적 통합 및 배포를 위한 자동화 도구, GitHub Actions로 빌드, 테스트, 배포</td>
-    </tr>
-    <tr>
-      <td>Deployment</td>
-      <td><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-          <img src="https://img.shields.io/badge/Fly.io-00B4D8?style=for-the-badge&logo=fly&logoColor=white" alt="Fly.io"></td>
-      <td>서버리스 애플리케이션 배포 및 호스팅 플랫폼, Vercel과 Fly.io로 배포 및 관리</td>
-    </tr>
-  </tbody>
-</table>
-
-<br><br>
-
 ### 프론트엔드 기술 스택
 <table>
   <thead>
@@ -194,6 +163,37 @@ AI가 사용자의 건강 목표, 알레르기, 예산 등을 기반으로 맞�
       <td>Testing</td>
       <td><img src="https://img.shields.io/badge/Newman-5F4B8B?style=for-the-badge&logo=newman&logoColor=white" alt="Newman"></td>
       <td>Postman에서 작성한 API 테스트 스크립트를 CLI에서 실행하는 도구</td>
+    </tr>
+  </tbody>
+</table>
+
+<br><br>
+
+### 공통 기술 스택
+<table>
+  <thead>
+    <tr>
+      <th>역할</th>
+      <th>기술 스택</th>
+      <th>세부 설명</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Version Control</td>
+      <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></td>
+      <td>버전 관리 시스템, 소스 코드 변경 사항 추적 및 팀 협업을 위한 도구</td>
+    </tr>
+    <tr>
+      <td>CI/CD</td>
+      <td><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"></td>
+      <td>소프트웨어의 지속적 통합 및 배포를 위한 자동화 도구, GitHub Actions로 빌드, 테스트, 배포</td>
+    </tr>
+    <tr>
+      <td>Deployment</td>
+      <td><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+          <img src="https://img.shields.io/badge/Fly.io-00B4D8?style=for-the-badge&logo=fly&logoColor=white" alt="Fly.io"></td>
+      <td>서버리스 애플리케이션 배포 및 호스팅 플랫폼, Vercel과 Fly.io로 배포 및 관리</td>
     </tr>
   </tbody>
 </table>
