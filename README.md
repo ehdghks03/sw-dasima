@@ -48,8 +48,9 @@
 
 <br><br>
 
+
+## 기술 스택
 <div style="margin: 20px 0;">
-  <h1>기술스택</h1>
   <div style="margin-bottom: 0;">
     <h3>🛠 Frontend</h3>
     <table>
