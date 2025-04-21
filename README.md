@@ -138,6 +138,27 @@
       </thead>
       <tbody>
         <tr>
+          <td>Web Framework</td>
+          <td>
+            <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+          </td>
+          <td>고성능 API 개발을 위한 Python 기반의 웹 프레임워크</td>
+        </tr>
+        <tr>
+          <td>Data Validation</td>
+          <td>
+            <img src="https://img.shields.io/badge/Pydantic-1B58FF?style=for-the-badge&logo=pydantic&logoColor=white">
+          </td>
+          <td>데이터 유효성 검사 및 데이터 모델 관리를 위한 라이브러리</td>
+        </tr>
+        <tr>
+          <td>ASGI Server</td>
+          <td>
+            <img src="https://img.shields.io/badge/Uvicorn-4B3C8C?style=for-the-badge&logo=uvicorn&logoColor=white">
+          </td>
+          <td>FastAPI와 함께 사용하는 ASGI 서버, 고성능 비동기 서버</td>
+        </tr>
+        <tr>
           <td>Database</td>
           <td>
             <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white">
@@ -153,114 +174,41 @@
           <td>Python 기반 ORM 라이브러리, 데이터베이스와의 상호작용 담당</td>
         </tr>
         <tr>
-          <td>Web Framework</td>
+          <td>API Documentation</td>
           <td>
-            <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-            <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+            <img src="https://img.shields.io/badge/OpenAPI%203.0-7A61E8?style=for-the-badge&logo=openapi&logoColor=white">
+            <img src="https://img.shields.io/badge/Swagger%20UI-85A5D6?style=for-the-badge&logo=swagger&logoColor=white">
           </td>
-          <td>Express.js는 Node.js 기반 웹 서버, Flask는 Python 기반 경량 웹 프레임워크</td>
+          <td>API 문서화 도구, OpenAPI 3.0과 Swagger UI로 API 명세 제공</td>
         </tr>
         <tr>
-          <td>Programming Language</td>
+          <td>Authentication</td>
           <td>
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+            <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
           </td>
-          <td>서버 사이드 로직을 작성하는 프로그래밍 언어</td>
+          <td>실시간 데이터베이스, 인증, 저장소 등의 백엔드 서비스를 제공하는 오픈소스 서비스</td>
         </tr>
         <tr>
-          <td>Runtime Environment</td>
+          <td>Testing</td>
           <td>
-            <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+            <img src="https://img.shields.io/badge/Newman-5F4B8B?style=for-the-badge&logo=newman&logoColor=white">
           </td>
-          <td>JavaScript 런타임 환경, 서버 사이드에서 JavaScript 실행</td>
+          <td>Postman에서 작성한 API 테스트 스크립트를 CLI에서 실행하는 도구</td>
         </tr>
-      </tbody>
-    </table>
-  </div>
-
-  <br/>
-  
-  <div style="margin-bottom: 0;">
-    <h3>🛠 AI Server</h3>
-    <table>
-      <thead>
         <tr>
-          <th>역할</th>
-          <th>기술 스택</th>
-          <th>세부 설명</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Programming Language</td>
+          <td>CI/CD</td>
           <td>
-            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+            <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
           </td>
-          <td>AI 모델 및 서버 로직 구현을 위한 언어</td>
+          <td>소프트웨어의 지속적 통합 및 배포를 위한 자동화 도구</td>
         </tr>
         <tr>
-          <td>ORM Library</td>
+          <td>Deployment</td>
           <td>
-            <img src="https://img.shields.io/badge/SQLAlchemy-8B0000?style=for-the-badge&logo=SQLAlchemy&logoColor=white">
+            <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+            <img src="https://img.shields.io/badge/Fly.io-00B4D8?style=for-the-badge&logo=fly&logoColor=white">
           </td>
-          <td>Python 기반 ORM 라이브러리, 데이터베이스와의 상호작용 담당</td>
-        </tr>
-      </tbody>
-    </table>    
-  </div>
-
-  <br/>
-
-  <div style="margin-bottom: 0;">
-    <h3>🛠 Tools</h3>
-    <table>
-      <thead>
-        <tr>
-          <th>역할</th>
-          <th>기술 스택</th>
-          <th>세부 설명</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>IDE</td>
-          <td>
-            <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm">
-            <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" alt="Visual Studio Code">
-          </td>
-          <td>Python 개발 환경(PyCharm), 다양한 언어 지원(Visual Studio Code)</td>
-        </tr>
-        <tr>
-          <td>Version Control</td>
-          <td>
-            <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-            <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-          </td>
-          <td>소스 코드 버전 관리 및 협업 도구</td>
-        </tr>
-        <tr>
-          <td>Cooperation</td>
-          <td>
-            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion">
-            <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord">
-          </td>
-          <td>팀 협업 및 문서화 도구(Notion), 실시간 소통 도구(Discord)</td>
-        </tr>
-        <tr>
-          <td>Test</td>
-          <td>
-            <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">
-            <img src="https://img.shields.io/badge/curl-FF8C00?style=for-the-badge&logo=curl&logoColor=white">
-          </td>
-          <td>API 테스트 및 요청 도구</td>
-        </tr>
-        <tr>
-          <td>UI Design</td>
-          <td>
-            <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma">
-          </td>
-          <td>UI/UX 디자인 및 프로토타입 도구</td>
+          <td>서버리스 애플리케이션 배포 및 호스팅 플랫폼</td>
         </tr>
       </tbody>
     </table>    
