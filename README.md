@@ -125,6 +125,20 @@ AI가 사용자의 건강 목표, 알레르기, 예산 등을 기반으로 맞�
   </thead>
   <tbody>
     <tr>
+      <td>Runtime Environment</td>
+      <td>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+      </td>
+      <td>JavaScript 런타임 환경, 서버 사이드 애플리케이션 개발에 사용되며, 비동기 I/O와 이벤트 기반 구조를 제공</td>
+    </tr>
+    <tr>
+      <td>Web Framework</td>
+      <td>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+      </td>
+      <td>Node.js 기반의 경량 웹 프레임워크, REST API 구축 및 미들웨어 처리에 사용</td>
+    </tr>
+    <tr>
       <td>Web Framework</td>
       <td><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></td>
       <td>고성능 API 개발을 위한 Python 기반의 웹 프레임워크, 비동기 처리를 지원</td>
