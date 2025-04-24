@@ -213,11 +213,51 @@ AI가 사용자의 건강 목표, 알레르기, 예산 등을 기반으로 맞�
 <br><br>
 
 ## 🟨 프로젝트 개요도
+
+<br>
+
 <img src="프로젝트 개요도.png" alt="프로젝트 개요도" width="1200"/>
 
 <br><br>
 
 ## 🟨 모듈 개요도
+
+<br>
+
 <img src="모듈 개요도.png" alt="모듈 개요도" width="1200"/>
+
+<br><br>
+
+## 🟨 시나리오 흐름도
+
+<br>
+
+### 1단계
+<img src="시나리오%20흐름도/1.png" width="1200" alt="1단계"/>
+
+<br><br>
+
+### 2단계
+<img src="시나리오%20흐름도/2.png" width="1200" alt="2단계"/>
+
+<br><br>
+
+### 3단계
+<p float="left">
+  <img src="시나리오%20흐름도/3.png" width="50%" height="600" alt="3단계-1"/>
+  <img src="시나리오%20흐름도/4.png" width="49%" height="600" alt="3단계-2"/>
+</p>
+
+<br><br>
+
+### 4단계
+<p float="left">
+  <img src="시나리오%20흐름도/5.png" width="50%" height="600" alt="4단계-1"/>
+  <img src="시나리오%20흐름도/6.png" width="49%" height="600" alt="4단계-2"/>
+</p>
+
+
+
+
 
 
