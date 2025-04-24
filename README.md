@@ -217,7 +217,6 @@ AI가 사용자의 건강 목표, 알레르기, 예산 등을 기반으로 맞�
       <td>Code Editor</td>
       <td>
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-        <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
       </td>
       <td>코드 편집기 및 IDE, VS Code는 범용 편집기로, PyCharm은 Python 개발에 특화된 IDE</td>
     </tr>
